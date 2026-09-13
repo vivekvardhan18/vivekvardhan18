@@ -2,7 +2,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E86FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Vivek+Vardhan+%F0%9F%91%8B;MERN+Stack+Developer;Freelance+Web+%26+Digital+Marketing;Always+Building+Something+New" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-vardhan-althi-64354a251)
-[![GitHub followers](https://img.shields.io/github/followers/vivekvardhan18?style=flat-square&logo=github&label=Followers)](https://github.com/vivekvardhan18)
+[![GitHub followers](https://img.shields.io/github/followers/vivekvardhan18?style=flat-square&logo=github&label=Followers)](https://github.com/vivekvardhan18?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=vivekvardhan18&style=flat-square&color=2E86FF&label=Profile+Views)](https://github.com/vivekvardhan18)
 
 </div>
 
@@ -55,38 +56,42 @@
 <tr>
 <td width="50%" valign="top">
 
-**🚗 MY-RIDE**
-
-Real-time cab booking application with live location tracking.
-- Socket.io for real-time driver–rider communication
-- Google Maps API for routing and live tracking
-- MERN stack end to end
-
-[`View Repo →`](https://github.com/vivekvardhan18/MY-RIDE)
-
-</td>
-<td width="50%" valign="top">
-
-**📚 RESOURCEFORGE**
+**📚 ResourceForge**
 
 Educational resource-sharing platform for students.
 - Upload, organize, and discover study resources
 - Built on the MERN stack with a focus on usability
 
-[`View Repo →`](https://github.com/vivekvardhan18/RESOURCEFORGE)
+[`View Repo →`](https://github.com/vivekvardhan18/ResourceForge)
+
+</td>
+<td width="50%" valign="top">
+
+**🎤 InterVine AI**
+
+AI-powered interview preparation platform.
+- Mock interviews, resume analysis, and an AI chat assistant
+- Full visual redesign with React Three Fiber / WebGL
+
+`🚧 In active development`
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+[`See all repositories →`](https://github.com/vivekvardhan18?tab=repositories)
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vivekvardhan18&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvardhan18&layout=compact&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekvardhan18&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vivekvardhan18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvardhan18&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
