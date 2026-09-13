@@ -59,8 +59,8 @@
 **📚 ResourceForge**
 
 Educational resource-sharing platform for students.
-- Upload, organize, and discover study resources
-- Built on the MERN stack with a focus on usability
+- Search, bookmark, and organize study resources into learning paths
+- Built with Flask (Python) and a pandas-based recommender
 
 [`View Repo →`](https://github.com/vivekvardhan18/ResourceForge)
 
