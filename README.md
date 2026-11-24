@@ -15,7 +15,7 @@ Building booking, payments, analytics and operations software for hospitality bu
 
 ## About
 
-- Full Stack / Backend Developer at **Azzurro Hotels** (Sydney, remote) since June 2026
+- Full Stack / Backend Developer at **CBIT Pty Ltd** since June 2026
 - B.Tech in Computer Science and Engineering from **VIT Bhopal University** (graduated October 2026)
 - I build and ship production systems end to end: Next.js and React frontends, Node.js and Python backends, PostgreSQL and SQLite data layers, and the Stripe, Cloudbeds and marketing-tracking integrations around them
 - Based in Andhra Pradesh, India
