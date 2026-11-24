@@ -1,92 +1,85 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E86FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Vivek+Vardhan+%F0%9F%91%8B;MERN+Stack+Developer;Freelance+Web+%26+Digital+Marketing;Always+Building+Something+New" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-vardhan-althi-64354a251)
-[![GitHub followers](https://img.shields.io/github/followers/vivekvardhan18?style=flat-square&logo=github&label=Followers)](https://github.com/vivekvardhan18?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=vivekvardhan18&style=flat-square&color=2E86FF&label=Profile+Views)](https://github.com/vivekvardhan18)
+# Vivek Vardhan Althi
 
-</div>
+**Full Stack & Backend Developer**
 
-### 👋 About Me
+Building booking, payments, analytics and operations software for hospitality businesses.
 
-- 🎓 Computer Science Engineering graduate (2026), VIT Bhopal
-- 💻 MERN stack developer — React, Node.js, Express, MongoDB
-- 📈 Currently freelancing in web development, content production, and digital marketing for international clients
-- 🌱 Learning Linux/WSL fundamentals and exploring cloud & DevOps basics
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivek-vardhan-althi-64354a251)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Core**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📚 ResourceForge**
-
-Educational resource-sharing platform for students.
-- Search, bookmark, and organize study resources into learning paths
-- Built with Flask (Python) and a pandas-based recommender
-
-[`View Repo →`](https://github.com/vivekvardhan18/ResourceForge)
-
-</td>
-<td width="50%" valign="top">
-
-**🎤 InterVine AI**
-
-AI-powered interview preparation platform.
-- Mock interviews, resume analysis, and an AI chat assistant
-- Full visual redesign with React Three Fiber / WebGL
-
-`🚧 In active development`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[`See all repositories →`](https://github.com/vivekvardhan18?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-vardhan-althi-64354a251/)
+[![Email](https://img.shields.io/badge/Email-vivekalthi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vivekalthi@gmail.com)
 
 </div>
 
 ---
 
+## About
+
+- Full Stack / Backend Developer at **Azzurro Hotels** (Sydney, remote) since June 2026
+- B.Tech in Computer Science and Engineering from **VIT Bhopal University** (graduated October 2026)
+- I build and ship production systems end to end: Next.js and React frontends, Node.js and Python backends, PostgreSQL and SQLite data layers, and the Stripe, Cloudbeds and marketing-tracking integrations around them
+- Based in Andhra Pradesh, India
+
+## What I Work On
+
+- **Direct booking engine** on Next.js, React and TypeScript with Stripe and the Cloudbeds PMS API: live rate checks at checkout, idempotent webhook fulfilment and automatic refunds for oversold reservations
+- **First-party analytics platform** covering sessions, funnels, A/B experiments, purchases and Core Web Vitals, with an admin dashboard and Excel exports
+- **Conversion tracking** across Meta Pixel and Conversions API, TikTok Events API and GA4 Measurement Protocol, with event deduplication and PII hashing
+- **Competitor rate and inventory intelligence** using Playwright scrapers with WhatsApp and Telegram alerts
+- **Operations dashboard** for multiple properties on Express, PostgreSQL and Knex with JWT authentication and role-based access control
+- **Delivery and infrastructure**: GitHub Actions CI/CD to a Linux VPS with Nginx and PM2 cluster mode, plus Cloudflare R2 storage
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript (ES6+), Python, SQL, Java |
+| Frontend | React, Next.js (App Router, SSR), Redux, Tailwind CSS, Chart.js |
+| Backend | Node.js, Express.js, REST APIs, Webhooks, JWT, Socket.io |
+| Databases | PostgreSQL (Knex migrations), SQLite, MongoDB, MySQL |
+| Payments and PMS | Stripe (PaymentIntents, Webhooks, Refunds), Cloudbeds API, Mews |
+| Analytics and Marketing | Meta Pixel and CAPI, TikTok Events API, GA4, Google Tag Manager, Microsoft Clarity, A/B testing, SEO |
+| Email and Messaging | Resend, Nodemailer, Svix webhooks, Twilio, Web Push |
+| Automation | Playwright, Cron jobs, Telegram and WhatsApp bots, Google Sheets API |
+| DevOps | Git, GitHub Actions, PM2, Nginx, Linux (Vultr VPS), Cloudflare R2, Docker |
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+## Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **Hotel Direct Booking Platform** | Cart-to-reservation flow with promo quoting, atomic Stripe fulfilment, room assignment, oversell refunds and server-side purchase events for four marketing platforms. *Private repository.* | Next.js, TypeScript, Stripe, Cloudbeds API, SQLite |
+| **Competitor Rate and Inventory Intelligence Suite** | Tracks live competitor room and bed availability across Cloudbeds and Mews booking engines, and monitors Booking.com price ranking with nightly alerts. *Private repository.* | Node.js, Playwright, SQLite, Telegram and WhatsApp APIs |
+| **Multi-Property Operations Dashboard** | Monolith of 30+ modules for reception, cleaning, maintenance and security teams across 4 properties, with 70+ migrations, role-based permissions and audit logs. *Private repository.* | Express, PostgreSQL, Knex, JWT, bcrypt |
+| [**ResourceForge**](https://github.com/vivekvardhan18/ResourceForge) | Educational resource-sharing platform with search, bookmarking and personalised learning paths, using a pandas-based recommender. | Flask, Python, pandas |
+
+## Education and Certifications
+
+- **B.Tech, Computer Science and Engineering**, VIT Bhopal University (2022 to 2026), CGPA 7.28 / 10
+- NPTEL, IIT Kharagpur: Cloud Computing (2024), Elite badge
+- Microsoft and LinkedIn Learning: Career Essentials in Software Development (2024)
+- Google and Coursera: The Bits and Bytes of Computer Networking (2023)
+
+---
+
 <div align="center">
-💬 Open to freelance web development and full-stack opportunities — let's connect!
+
+Open to connecting with engineers and teams working on full stack and backend products.
+
 </div>
